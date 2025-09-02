@@ -128,11 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-<<<<<<< HEAD
-=======
 .artifacts
-artifacts/
->>>>>>> 8ad8c62 (data ingestion commit)
+#artifacts/
 .env
 .venv
 env/
