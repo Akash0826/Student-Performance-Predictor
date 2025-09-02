@@ -5,4 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+<<<<<<< HEAD
 #-e .
+=======
+-e .
+>>>>>>> 8ad8c62 (data ingestion commit)
